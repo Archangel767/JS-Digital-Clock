@@ -8,23 +8,23 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #10101E;
+  background: #10101e;
 }
 
 .datetime {
   color: #fff;
-  background: #10101E;
-  font-family:'Segoe UI', sans-serif;
+  background: #10101e;
+  font-family: "Segoe UI", sans-serif;
   width: 340px;
   padding: 15px 10px;
-  border: 3px solid #2E94E3;
+  border: 3px solid #2e94e3;
   border-radius: 5px;
   transition: 0.3s;
 }
 
 .datetime:hover {
-  background: #2E94E3;
-  box-shadow: 0 0 30px #3E94E3;
+  background: #2e94e3;
+  box-shadow: 0 0 30px #3e94e3;
 }
 
 .date {
@@ -50,7 +50,7 @@ body {
 }
 
 .time span:last-child {
-  background: #3E94E3;
+  background: #3e94e3;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
